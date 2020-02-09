@@ -11,10 +11,10 @@ Document
 ## Method  
 
 * display_document_title    
-['Nicola Document title', 'Doc Title Two', 'contract']  
+``['Nicola Document title', 'Doc Title Two', 'contract']``  
 * display_document_file_extension    
-['.doc', '.docx', '.odt', '.rtf']  
+``['.doc', '.docx', '.odt', '.rtf']``  
 * count_all_characters  
-(result equal to or greater than 0)    
+``(result equal to or greater than 0)``    
 * display_document_author    
-"firstname lastname" ['Nicola Kim', 'Bob Jones', 'Bojack Horseman']   
+``"firstname lastname" ['Nicola Kim', 'Bob Jones', 'Bojack Horseman']``   
